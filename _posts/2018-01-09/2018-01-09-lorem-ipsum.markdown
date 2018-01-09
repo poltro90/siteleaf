@@ -7,6 +7,7 @@ categories:
 tags:
 - latinum
 - latinorum
+layout: default
 ---
 
 Lorem ipsum dolor sit amen
