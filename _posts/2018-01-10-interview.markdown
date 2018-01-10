@@ -2,6 +2,7 @@
 title: Interview with Rosalind Picard — Behind Empatica’s Research
 date: 2018-01-10 08:16:00 Z
 permalink: "/posts/interview"
+Author: Mario Rossi
 ---
 
 ![1_2bssTsiLN-sAEUp_U8nzBw.jpeg](/uploads/1_2bssTsiLN-sAEUp_U8nzBw.jpeg)
