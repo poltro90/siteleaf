@@ -5,7 +5,7 @@ permalink: "/posts/interview"
 Author: Mario Rossi
 ---
 
-![1_2bssTsiLN-sAEUp_U8nzBw.jpeg](/uploads/1_2bssTsiLN-sAEUp_U8nzBw.jpeg)
+![1_2bssTsiLN-sAEUp_U8nzBw.jpeg](/uploads/1_2bssTsiLN-sAEUp_U8nzBw.jpeg){.img-full-width}
 
 Dear supporters,
 
