@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://poltro90.github.io/list/data-1/</loc>
+<loc>http://poltro90.github.io/list/ciao/</loc>
 <lastmod>2018-01-10T17:13:00+00:00</lastmod>
 </url>
 <url>
@@ -19,6 +19,10 @@
 <url>
 <loc>http://poltro90.github.io/posts/interview</loc>
 <lastmod>2018-01-10T08:16:00+00:00</lastmod>
+</url>
+<url>
+<loc>http://poltro90.github.io/seizures/how-to-use-embrace/</loc>
+<lastmod>2018-01-11T12:19:00+00:00</lastmod>
 </url>
 <url>
 <loc>http://poltro90.github.io/posts/</loc>
